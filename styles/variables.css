@@ -1,0 +1,14 @@
+/*root variable */
+
+:root {
+	--prim-color: #4458dc;
+	--sec-color:#854fee;
+	--title-color:#141313;
+	--text-color:#777777;
+	--border-color:#201f1f17;
+	--gradient-color:linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+	--shadow-color:0px 10px 30px rgba(118,85,225,0.3);
+	--box-shadow:0px 10px 30px rgba(57,56,61,0.205);
+/* font family variable */
+	--roboto:'Roboto',cursive;	
+};

@@ -1,0 +1,49 @@
+/*-------- global style--------------- */
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+/* patterns */
+
+.c{
+	border-radius: 50%;
+	background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
+	opacity: 0.8;
+	position: fixed;
+	z-index:-1;
+}
+.c-sm{
+	width:250px;
+	height:250px;
+}
+.c-lg{
+	width:35vw;
+	height: 35vw;
+}
+.c-sm-2{
+	top:25%;
+	left:5%;
+}
+.c-sm-1{
+	top:0%;
+	right: 0%;
+}
+/* patterns end */
+/*width for the img-fluid */
+
+/*----------- global style------------ */
+/*---- fonts for different texts ----*/
+
+.para{
+	font: 16px var(--robota);
+	line-height: 2rem;
+}
+
+.intro{
+	font: 20px var(--robota);
+	font-weight: bold;
+	border-bottom: 1px solid black;
+	letter-spacing: 10px;
+
+}
