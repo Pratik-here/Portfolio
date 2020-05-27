@@ -2,6 +2,7 @@
 Simple Porfolio Page using Bootstrap-4
 
 Hi there, This is my first documentation. 
+
 Purpose: To create a responsive portfolio web page using bootstrap-4.
 
 Resources used : unsplash.com, pexels.com, cssgradients.io, fontawesome, flaticon.com
